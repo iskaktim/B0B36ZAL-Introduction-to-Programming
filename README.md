@@ -1,6 +1,6 @@
 # B0B36ZAL Introduction to Programming (Python)
 
-My solutions was automatically checked by BRUTE
+**My solutions were automatically checked by BRUTE**
 
 ---
 
@@ -21,7 +21,6 @@ My solutions was automatically checked by BRUTE
 9. Permutations - Permutation and recursion  
 
 10. Dijkstra - Shortest path algorithm in graph
-    
-10. Dijkstra Use - Testing Dijkstra algorithm
+    Dijkstra Use - Testing Dijkstra algorithm
 
 11. Homer's fridge - More programming
