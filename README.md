@@ -18,7 +18,7 @@
 
 9. Permutations - Permutation and recursion  
 
-10. Dijkstra - Shortest path algorithm in graph
-    Dijkstra Use - Testing Dijkstra algorithm
+10. * Dijkstra - Shortest path algorithm in graph
+    * Dijkstra Use - Testing Dijkstra algorithm
 
 11. Homer's fridge - More programming
