@@ -1,8 +1,6 @@
 # B0B36ZAL Introduction to Programming (Python)
 
-**My solutions were automatically checked by BRUTE**
-
----
+## My solutions were automaticly cheked by BRUTE
 
 2. Python In Action - Writing static text to file
    
