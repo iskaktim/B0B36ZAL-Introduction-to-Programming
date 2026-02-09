@@ -1,5 +1,7 @@
 # B0B36ZAL Introduction to Programming (Python)
 
+Winter Semester 2025 - Homeworks for B0B36ZAL Introduction to Programming
+
 ## My solutions were automaticly cheked by BRUTE
 
 2. Python In Action - Writing static text to file
